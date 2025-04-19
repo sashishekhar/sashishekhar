@@ -25,6 +25,47 @@ A peek into my problem-solving world.
   </table>
 </div>
 
+# 🚀 Featured Projects  
+Crafted with love, designed for impact. Here's a glimpse of what I've built lately:
+
+<div align="center">
+
+### 💰 Vault
+<p>
+Manage your finances with intelligence — an AI-powered financial management platform to track, analyze, and optimize your spending in real-time.
+</p>
+<a href="https://vault-gamma-cyan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-🔗 Live Preview-%23145DAB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Live Preview - Vault" />
+</a>
+
+<!-- Network -->
+### 🌐 Network
+<p>
+A modern social media platform built for real-time interaction and seamless UI/UX. Connect, share, and engage like never before.
+</p>
+<a href="https://network-social-media.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-🔗 Live Preview-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview - Network" />
+</a>
+
+<br/><br/>
+
+<!-- Canvas -->
+### 📝 Canvas
+<p>
+Simplify collaboration with smarter documentation tools. Create, share, and visualize ideas seamlessly with our all-in-one platform for teams.
+</p>
+<a href="https://canvas-eta-five.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-🔗 Live Preview-%2300ADB5?style=for-the-badge&logo=notion&logoColor=white" alt="Live Preview - Canvas" />
+</a>
+
+<br/><br/>
+
+
+
+
+</div>
+
+
 
 # 📬 Get in Touch  
 Let’s connect and talk tech, products, or just memes.
@@ -39,16 +80,6 @@ Let’s connect and talk tech, products, or just memes.
   </a>
 </div>
 
----
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sashishekhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sashishekhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashishekhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sashishekhar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
