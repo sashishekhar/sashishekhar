@@ -25,45 +25,30 @@ A peek into my problem-solving world.
   </table>
 </div>
 
-# 🚀 Featured Projects  
+# 📂 Featured Projects  
 Crafted with love, designed for impact. Here's a glimpse of what I've built lately:
 
-<div align="center">
+### 💰 Vault  
+Manage your finances with intelligence — an AI-powered financial management platform.  
+Track, analyze, and optimize your spending in real-time.  
+[![Live Preview](https://img.shields.io/badge/-🔗%20Live%20Preview-%23145DAB?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://vault-gamma-cyan.vercel.app/)
 
-### 💰 Vault
-<p>
-Manage your finances with intelligence — an AI-powered financial management platform to track, analyze, and optimize your spending in real-time.
-</p>
-<a href="https://vault-gamma-cyan.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-🔗 Live Preview-%23145DAB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Live Preview - Vault" />
-</a>
+### 🌐 Network  
+A modern social media platform built for real-time interaction and seamless UI/UX.  
+Connect, share, and engage like never before.  
+[![Live Preview](https://img.shields.io/badge/-🔗%20Live%20Preview-black?style=for-the-badge&logo=vercel&logoColor=white)](https://network-social-media.vercel.app/)
 
-<!-- Network -->
-### 🌐 Network
-<p>
-A modern social media platform built for real-time interaction and seamless UI/UX. Connect, share, and engage like never before.
-</p>
-<a href="https://network-social-media.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-🔗 Live Preview-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview - Network" />
-</a>
 
-<br/><br/>
 
-<!-- Canvas -->
-### 📝 Canvas
-<p>
-Simplify collaboration with smarter documentation tools. Create, share, and visualize ideas seamlessly with our all-in-one platform for teams.
-</p>
-<a href="https://canvas-eta-five.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-🔗 Live Preview-%2300ADB5?style=for-the-badge&logo=notion&logoColor=white" alt="Live Preview - Canvas" />
-</a>
-
-<br/><br/>
+### 📝 Canvas  
+Simplify collaboration with smarter documentation tools.  
+Create, share, and visualize ideas seamlessly with our all-in-one platform for teams.  
+[![Live Preview](https://img.shields.io/badge/-🔗%20Live%20Preview-%2300ADB5?style=for-the-badge&logo=notion&logoColor=white)](https://canvas-eta-five.vercel.app/)
 
 
 
 
-</div>
+
 
 
 
